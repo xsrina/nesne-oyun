@@ -18,11 +18,3 @@ Bu proje, temel nesne tabanlı programlama (OOP) prensiplerini kullanarak geliş
    - Karakterlerin ve düşmanların durumu, konsol ekranında basit bir grafik ile gösterilir.
 
 ---
-
-## **Nasıl Çalıştırılır?**
-
-1. **Kaynak Kodun İndirilmesi**:
-   Bu projeyi çalıştırmak için önce bu repoyu yerel makinenize klonlayın:
-   ```bash
-   git clone https://github.com/kullaniciadi/oyun-projesi.git
-   cd oyun-projesi
